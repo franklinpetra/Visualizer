@@ -1,0 +1,140 @@
+ *{
+    background-color:beige;
+}
+
+.array-container {
+    margin: 10% 0% 0% 0%;
+    position: center;
+    /* left: 100px; */
+}
+
+.array-bar {
+    width: 16px;
+    background-color:rgb(244, 184, 73);
+    display:inline-block;
+    margin: 0 1.5px;
+}
+
+.button-a {
+    border-radius: 4px;
+    height:40px;
+    margin: 30px 20px 0px 0px;
+    background-color: rgb(170, 114, 210);
+    color:white;
+    font-size: 20px;
+    border: 0px;
+}
+
+
+.button-b {
+    border-radius: 4px;
+    margin: 50px 20px 0px 0px;
+    background-color: rgb(205, 143, 153);
+    color:white;
+    font-size: 20px;
+    border: 0px;
+    height:35px;
+
+}
+
+.button-c {
+    border-radius: 4px;
+    margin: 50px 20px 0px 0px;
+    background-color: rgb(22, 215, 22);
+    color:white;
+    font-size: 20px;
+    border: 0px;
+    height:35px;
+
+}
+.button-d {
+    border-radius: 4px;
+    margin: 50px 20px 0px 0px;
+    background-color:rgb(121, 156, 210);
+    color:white;
+    font-size: 20px;
+    border: 0px;
+    height:35px;
+
+}
+.button-e {
+    border-radius: 4px;
+    margin: 50px 20px 0px 0px;
+    background-color:#d78a6b;
+    color:white;
+    font-size: 20px;
+    border: 0px;
+    height:35px;
+
+}
+.button-f {
+    border-radius: 4px;
+    margin: 50px 20px 0px 0px;
+    background-color:#00bcd4;
+    color:white;
+    font-size: 20px;
+    border: 0px;
+    height:35px;
+
+}
+
+.button-g {
+    border-radius: 4px;
+    margin: 50px 20px 0px 0px;
+    background-color:#cdb30c;
+    color:white;
+    font-size: 20px;
+    border: 0px;
+    height:35px;
+
+}
+
+.button-h {
+    border-radius: 4px;
+    height:40px;
+    margin: 30px 20px 0px 0px;
+    background-color: #4F8A8B;
+    color:white;
+    font-size: 20px;
+    border: 0px;
+}
+
+.button-i {
+    border-radius: 4px;
+    height:40px;
+    width:200px;
+    margin: 30px 20px 0px 0px;
+    background-color: green;
+    color:white;
+    font-size: 20px;
+    border: 0px;
+}
+
+.button-j {
+    border-radius: 4px;
+    height:40px;
+    margin: 30px 20px 0px 0px;
+    background-color:#900c3f;
+    color:white;
+    font-size: 20px;
+    border: 0px;
+}
+.button-k {
+    border-radius: 4px;
+    height:40px;
+    margin: 30px 20px 0px 0px;
+    background-color:#900c3f;
+    color:white;
+    font-size: 20px;
+    border: 0px;
+}
+
+.button-dot {
+    border-radius: 4px;
+    height:40px;
+    margin: 30px 20px 0px 0px;
+    background-color:rgb(28, 84, 103);
+    color:white;
+    font-size: 20px;
+    border: 0px;
+}
